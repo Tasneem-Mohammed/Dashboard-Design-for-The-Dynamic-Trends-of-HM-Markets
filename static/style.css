@@ -1,0 +1,163 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Georgia, 'Times New Roman', Times, serif "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  background-color: #e6e8fa;
+}
+
+.titleCentre {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bolder;
+  color: purple;
+  margin-bottom: 20px; 
+}
+
+.charts-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin: 20px;
+}
+
+.chart3-container,
+.chart4-container {
+  width: 100%;
+ /* background-color: #dcd0ff;
+  border: 2px solid;
+  border-color: #800080;
+  border-radius: 30px; */
+  margin-bottom: 20px; 
+}
+.chart6-container {
+  width: 100%;
+ /* background-color: #dcd0ff;
+  border: 2px solid;
+  border-color: #800080;
+  border-radius: 30px; */
+  margin-bottom: 20px; 
+}
+
+.chart2-title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#chart1,
+#chart2,
+#chart5 {
+  width: 100%;
+  height: 350px;
+  background-color: #dcd0ff;
+  border: 2px solid;
+  border-color: #800080;
+  border-radius: 30px;
+}
+
+#chart3,
+#chart4 {
+  width: 50%;
+  height: 400px;
+}
+
+#chart6 {
+  width: 100%;
+  height: 400px;
+}
+/*body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Georgia, 'Times New Roman', Times, serif "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background-color: #e6e8fa;
+  }
+
+.titleCentre{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bolder;
+  color: purple;
+  /* font-size: larger; */ /* text-decoration: underline; */ /* font-style: oblique; 
+}
+/*
+.charts-container {
+    /* display: inline-block;
+    width: 450px; 
+    height: 350px;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    Gap: 30px;
+    width: 550px; 
+    height: 350px;
+}
+
+#chart1{
+    /* background-color: #f0f0f0; 
+    width: 100%; 
+    height: 350px;
+    background-color: #dcd0ff;
+    border: 2px solid;
+    border-color: #800080;
+    border-radius: 30px;
+}
+
+#chart2{
+    /* backround-color: #e6e8fa; 
+     backgroungd-color: #dcd0ff ; 
+    border: 2px solid;
+    border-color: #800080; 
+    border-radius: 25px; 
+    width: 50%;
+    /* height: 300px; 
+}
+
+.chart2-title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#chart3{
+  background-color: #f0f0f0;  
+  /* float: left; 
+  width: 50%;
+  /* height: 400px;  */
+  /* margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;  
+  background-color: hsl(255, 100%, 91%);
+  border: 2px solid;
+  border-color: #800080;
+  border-radius: 30px;
+ 
+}
+#chart4{
+  background-color: #f0f0f0;  
+  /* float: left; 
+  width: 750px; 
+  height: 300px; 
+  /* margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;  
+  background-color: #dcd0ff;
+  border: 2px solid;
+  border-color: #800080;
+  border-radius: 30px;
+ 
+}
+#chart5{
+  /* display: inline; 
+  background-color: #f0f0f0;  
+  width: 1000px; 
+  height: 500px; 
+  /* float: left; */
+  /* margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;  
+  background-color: #dcd0ff;
+  border: 2px solid;
+  border-color: #800080;
+  border-radius: 30px;
+ 
+}
+*/
