@@ -1,7 +1,8 @@
-# Dashboard Design for The Dynamic Trends in H&M Markets
+# Dashboard Design for The Dynamic Trends in H&M Markets using Amcharts5
 
 ## Overview
 This repository contains the source code and documentation for a dynamic dashboard designed to analyze trends in H&M markets. The dashboard is providing clear insights derived from sales and profit data, 
+![image](https://github.com/Tasneem-Mohammed/Dashboard-Design-for-The-Dynamic-Trends-of-HM-Markets/assets/120495578/71295590-2087-48de-95e2-ce14d2424f96)
 
 ## Features
 - **Interactive Visualizations**: Utilizes various charts and graphs to present data in an intuitive and interactive manner.
