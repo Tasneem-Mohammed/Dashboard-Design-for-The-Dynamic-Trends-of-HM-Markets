@@ -24,7 +24,6 @@ This repository contains the source code and documentation for a dynamic dashboa
 3. Run the Flask application: `python server.py`
 4. Access the dashboard in your web browser at `http://localhost:5500`.
 
-## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
 
 
