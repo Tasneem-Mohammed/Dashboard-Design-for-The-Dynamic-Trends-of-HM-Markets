@@ -1,0 +1,56 @@
+<DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Chart with Flask and amCharts 5</title>
+        <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+        <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+        <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+        <script src="https://cdn.amcharts.com/lib/5/percent.js"></script>
+        <script src="https://cdn.amcharts.com/lib/5/map.js"></script>
+         <script src="https://cdn.amcharts.com/lib/5/geodata/usaLow.js"></script>
+        
+        <script src="/static/chart1.js" defer></script>
+        <script src="/static/chart2.js" defer></script>
+        <script src="/static/chart3.js" defer></script>
+        <script src="/static/chart4.js" defer></script>
+        <script src="/static/chart5.js" defer></script>
+        <script src="/static/chart6.js" defer></script>
+
+        <link rel="stylesheet" href="/static/style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    </head>
+    <body>
+      <br>
+      <h1 class="titleCentre">Dynamic Trends at H&M</h1>
+      <br>
+      <div>
+          <p class="chart2-title">Profit of each State</p>
+          <div id="chart1"></div>
+      </div>
+  
+      <div class="charts-container">
+          <div>
+              <p class="chart2-title">Total Sales of each Category</p>
+              <div id="chart2"></div>
+          </div>
+  
+          <div>
+              <p class="chart2-title">Total Sales of each Sub-Category </p>
+              <div id="chart5"></div>
+          </div>
+          
+          <!-- <div class="chart3-container">
+              <p class="chart2-title">Chart 3 Title</p>
+              <div id="chart3"></div>
+          </div> -->
+  
+      </div>
+      
+      <div class="chart6-container">
+        <p class="chart2-title">Sales of H&M in each State </p>
+        <div id="chart6"></div>
+    </div>
+  </body>
+  </html>
