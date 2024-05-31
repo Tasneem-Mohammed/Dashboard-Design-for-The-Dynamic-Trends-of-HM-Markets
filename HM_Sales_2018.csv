@@ -1,0 +1,100 @@
+Order ID,Order Date,Ship Mode,Customer ID,Country,City,State,Region,Product ID,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2018-152156,11/8/2018,Second Class,CG-12520,United States ,Henderson,Kentucky,South,FUR-BO-10001798,Footwear,Flip flops,261.96,2,0,41.9136
+CA-2018-152156,11/8/2018,Second Class,CG-12520,United States ,Henderson,Kentucky,South,FUR-CH-10000454,Footwear,Sport shoes,731.94,3,0,219.582
+CA-2018-138688,6/12/2018,Second Class,DV-13045,United States ,Los Angeles,California,West,OFF-LA-10000240,Clothing,Socks,14.62,2,0,6.8714
+US-2018-108966,10/11/2018,Standard Class,SO-20335,United States ,Fort Lauderdale,Florida,South,FUR-TA-10000577,Footwear,Heels & Flats,957.5775,5,0.45,-383.031
+US-2018-108966,10/11/2018,Standard Class,SO-20335,United States ,Fort Lauderdale,Florida,South,OFF-ST-10000760,Clothing,Tops,22.368,2,0.2,2.5164
+CA-2018-115812,6/9/2018,Standard Class,BH-11710,United States ,Los Angeles,California,West,FUR-FU-10001487,Footwear,Sneakers,48.86,7,0,14.1694
+CA-2018-115812,6/9/2018,Standard Class,BH-11710,United States ,Los Angeles,California,West,OFF-AR-10002833,Clothing,Jackets,7.28,4,0,1.9656
+CA-2018-115812,6/9/2018,Standard Class,BH-11710,United States ,Los Angeles,California,West,TEC-PH-10002275,Accessories,Bags,907.152,6,0.2,90.7152
+CA-2018-115812,6/9/2018,Standard Class,BH-11710,United States ,Los Angeles,California,West,OFF-BI-10003910,Clothing,Dresses,18.504,3,0.2,5.7825
+CA-2018-115812,6/9/2018,Standard Class,BH-11710,United States ,Los Angeles,California,West,OFF-AP-10002892,Clothing,Jeans,114.9,5,0,34.47
+CA-2018-115812,6/9/2018,Standard Class,BH-11710,United States ,Los Angeles,California,West,FUR-TA-10001539,Footwear,Heels & Flats,1706.184,9,0.2,85.3092
+CA-2018-115812,6/9/2018,Standard Class,BH-11710,United States ,Los Angeles,California,West,TEC-PH-10002033,Accessories,Bags,911.424,4,0.2,68.3568
+CA-2018-114412,4/15/2018,Standard Class,AA-10480,United States ,Concord,North Carolina,South,OFF-PA-10002365,Clothing,Formals,15.552,3,0.2,5.4432
+CA-2018-161389,12/5/2018,Standard Class,IM-15070,United States ,Seattle,Washington,West,OFF-BI-10003656,Clothing,Dresses,407.976,3,0.2,132.5922
+US-2018-118983,11/22/2018,Standard Class,Sport shoes-14815,United States ,Fort Worth,Texas,Central,OFF-AP-10002311,Clothing,Jeans,68.81,5,0.8,-123.858
+US-2018-118983,11/22/2018,Standard Class,Sport shoes-14815,United States ,Fort Worth,Texas,Central,OFF-BI-10000756,Clothing,Dresses,2.544,3,0.8,-3.816
+CA-2018-105893,11/11/2018,Standard Class,PK-19075,United States ,Madison,Wisconsin,Central,OFF-ST-10004186,Clothing,Tops,665.88,6,0,13.3176
+CA-2018-167164,5/13/2018,Second Class,AG-10270,United States ,West Jordan,Utah,West,OFF-ST-10000107,Clothing,Tops,55.5,2,0,9.99
+CA-2018-143336,8/27/2018,Second Class,ZD-21925,United States ,San Francisco,California,West,OFF-AR-10003056,Clothing,Jackets,8.56,2,0,2.4824
+CA-2018-143336,8/27/2018,Second Class,ZD-21925,United States ,San Francisco,California,West,TEC-PH-10001949,Accessories,Bags,213.48,3,0.2,16.011
+CA-2018-143336,8/27/2018,Second Class,ZD-21925,United States ,San Francisco,California,West,OFF-BI-10002215,Clothing,Dresses,22.72,4,0.2,7.384
+CA-2018-137330,12/9/2018,Standard Class,KB-16585,United States ,Fremont,Nebraska,Central,OFF-AR-10000246,Clothing,Jackets,19.46,7,0,5.0596
+CA-2018-137330,12/9/2018,Standard Class,KB-16585,United States ,Fremont,Nebraska,Central,OFF-AP-10001492,Clothing,Jeans,60.34,7,0,15.6884
+US-2018-156909,7/16/2018,Second Class,SF-20065,United States ,Philadelphia,Pennsylvania,East,FUR-CH-10002774,Footwear,Sport shoes,71.372,2,0.3,-1.0196
+CA-2018-106320,9/25/2018,Standard Class,EB-13870,United States ,Orem,Utah,West,FUR-TA-10000577,Footwear,Heels & Flats,1044.63,3,0,240.2649
+CA-2018-121755,1/16/2018,Second Class,EH-13945,United States ,Los Angeles,California,West,OFF-BI-10001634,Clothing,Dresses,11.648,2,0.2,4.2224
+CA-2018-121755,1/16/2018,Second Class,EH-13945,United States ,Los Angeles,California,West,TEC-AC-10003027,Accessories,Belts,90.57,3,0,11.7741
+US-2018-150630,9/17/2018,Standard Class,TB-21520,United States ,Philadelphia,Pennsylvania,West,FUR-BO-10004834,Footwear,Flip flops,3083.43,7,0.5,-1665.0522
+US-2018-150630,9/17/2018,Standard Class,TB-21520,United States ,Philadelphia,Pennsylvania,West,OFF-BI-10000474,Clothing,Dresses,9.618,2,0.7,-7.0532
+US-2018-150630,9/17/2018,Standard Class,TB-21520,United States ,Philadelphia,Pennsylvania,West,FUR-FU-10004848,Footwear,Sneakers,124.2,3,0.2,15.525
+US-2018-150630,9/17/2018,Standard Class,TB-21520,United States ,Philadelphia,Pennsylvania,West,OFF-EN-10001509,Clothing,T-shirts ,3.264,2,0.2,1.1016
+US-2018-150630,9/17/2018,Standard Class,TB-21520,United States ,Philadelphia,Pennsylvania,West,OFF-AR-10004042,Clothing,Jackets,86.304,6,0.2,9.7092
+US-2018-150630,9/17/2018,Standard Class,TB-21520,United States ,Philadelphia,Pennsylvania,West,OFF-BI-10001525,Clothing,Dresses,6.858,6,0.7,-5.715
+US-2018-150630,9/17/2018,Standard Class,TB-21520,United States ,Philadelphia,Pennsylvania,West,OFF-AR-10001683,Clothing,Jackets,15.76,2,0.2,3.546
+CA-2018-107727,10/19/2018,Second Class,MA-17560,United States ,Houston,Texas,Central,OFF-PA-10000249,Clothing,Formals,29.472,3,0.2,9.9468
+CA-2018-117590,12/8/2018,First Class,GH-14485,United States ,Richardson,Texas,Central,TEC-PH-10004977,Accessories,Bags,1097.544,7,0.2,123.4737
+CA-2018-117590,12/8/2018,First Class,GH-14485,United States ,Richardson,Texas,Central,FUR-FU-10003664,Footwear,Sneakers,190.92,5,0.6,-147.963
+CA-2018-117415,12/27/2018,Standard Class,SN-20710,United States ,Houston,Texas,Central,OFF-EN-10002986,Clothing,T-shirts ,113.328,9,0.2,35.415
+CA-2018-117415,12/27/2018,Standard Class,SN-20710,United States ,Houston,Texas,Central,FUR-BO-10002545,Footwear,Flip flops,532.3992,3,0.32,-46.9764
+CA-2018-117415,12/27/2018,Standard Class,SN-20710,United States ,Houston,Texas,Central,FUR-CH-10004218,Footwear,Sport shoes,212.058,3,0.3,-15.147
+CA-2018-117415,12/27/2018,Standard Class,SN-20710,United States ,Houston,Texas,Central,TEC-PH-10000486,Accessories,Bags,371.168,4,0.2,41.7564
+CA-2018-120999,9/10/2018,Standard Class,LC-16930,United States ,Naperville,Illinois,North,TEC-PH-10004093,Accessories,Bags,147.168,4,0.2,16.5564
+CA-2018-101343,7/17/2018,Standard Class,RA-19885,United States ,Los Angeles,California,West,OFF-ST-10003479,Clothing,Tops,77.88,2,0,3.894
+CA-2018-139619,9/19/2018,Standard Class,ES-14080,United States ,Melbourne,Florida,North,OFF-ST-10003282,Clothing,Tops,95.616,2,0.2,9.5616
+CA-2018-118255,3/11/2018,First Class,ON-18715,United States ,Eagan,Minnesota,Central,TEC-AC-10000171,Accessories,Belts,45.98,2,0,19.7714
+CA-2018-118255,3/11/2018,First Class,ON-18715,United States ,Eagan,Minnesota,Central,OFF-BI-10003291,Clothing,Dresses,17.46,2,0,8.2062
+CA-2018-146703,10/20/2018,Second Class,PO-18865,United States ,Westland,Michigan,Central,OFF-ST-10001713,Clothing,Tops,211.96,4,0,8.4784
+CA-2018-169194,6/20/2018,Standard Class,LH-16900,United States ,Dover,Delaware,East,TEC-AC-10002167,Accessories,Belts,45,3,0,4.95
+CA-2018-169194,6/20/2018,Standard Class,LH-16900,United States ,Dover,Delaware,East,TEC-PH-10003988,Accessories,Bags,21.8,2,0,6.104
+CA-2018-115742,4/18/2018,Standard Class,DP-13000,United States ,New Albany,Indiana,Central,OFF-BI-10004410,Clothing,Dresses,38.22,6,0,17.9634
+CA-2018-115742,4/18/2018,Standard Class,DP-13000,United States ,New Albany,Indiana,Central,OFF-LA-10002762,Clothing,Socks,75.18,6,0,35.3346
+CA-2018-115742,4/18/2018,Standard Class,DP-13000,United States ,New Albany,Indiana,Central,FUR-FU-10001706,Footwear,Sneakers,6.16,2,0,2.9568
+CA-2018-115742,4/18/2018,Standard Class,DP-13000,United States ,New Albany,Indiana,Central,FUR-CH-10003061,Footwear,Sport shoes,89.99,1,0,17.0981
+CA-2018-105816,12/11/2018,Standard Class,JM-15265,United States ,New York City,New York,North,OFF-FA-10000304,Clothing,Nightwear,15.26,7,0,6.2566
+CA-2018-105816,12/11/2018,Standard Class,JM-15265,United States ,New York City,New York,North,TEC-PH-10002447,Accessories,Bags,1029.95,5,0,298.6855
+CA-2018-111682,6/17/2018,First Class,TB-21055,United States ,Troy,New York,North,OFF-ST-10000604,Clothing,Tops,208.56,6,0,52.14
+CA-2018-111682,6/17/2018,First Class,TB-21055,United States ,Troy,New York,North,OFF-PA-10001569,Clothing,Formals,32.4,5,0,15.552
+CA-2018-111682,6/17/2018,First Class,TB-21055,United States ,Troy,New York,North,FUR-CH-10003968,Footwear,Sport shoes,319.41,5,0.1,7.098
+CA-2018-111682,6/17/2018,First Class,TB-21055,United States ,Troy,New York,North,OFF-PA-10000587,Clothing,Formals,14.56,2,0,6.9888
+CA-2018-111682,6/17/2018,First Class,TB-21055,United States ,Troy,New York,North,TEC-AC-10002167,Accessories,Belts,30,2,0,3.3
+CA-2018-111682,6/17/2018,First Class,TB-21055,United States ,Troy,New York,North,OFF-BI-10001460,Clothing,Dresses,48.48,4,0.2,16.362
+CA-2018-111682,6/17/2018,First Class,TB-21055,United States ,Troy,New York,North,OFF-AR-10001868,Clothing,Jackets,1.68,1,0,0.84
+CA-2018-135545,11/24/2018,Standard Class,KM-16720,United States ,Los Angeles,California,West,TEC-AC-10004633,Accessories,Belts,13.98,2,0,6.1512
+CA-2018-135545,11/24/2018,Standard Class,KM-16720,United States ,Los Angeles,California,West,OFF-BI-10001078,Clothing,Dresses,25.824,6,0.2,9.3612
+CA-2018-135545,11/24/2018,Standard Class,KM-16720,United States ,Los Angeles,California,West,OFF-PA-10003892,Clothing,Formals,146.73,3,0,68.9631
+CA-2018-135545,11/24/2018,Standard Class,KM-16720,United States ,Los Angeles,California,West,FUR-FU-10000397,Footwear,Sneakers,79.76,4,0,22.3328
+US-2018-164175,4/30/2018,Standard Class,PS-18970,United States ,Chicago,Illinois,Central,FUR-CH-10001146,Footwear,Sport shoes,213.115,5,0.3,-15.2225
+CA-2018-106376,12/5/2018,Standard Class,BS-11590,United States ,Gilbert,Arizona,West,OFF-AR-10002671,Clothing,Jackets,1113.024,8,0.2,111.3024
+CA-2018-106376,12/5/2018,Standard Class,BS-11590,United States ,Gilbert,Arizona,West,TEC-PH-10002726,Accessories,Bags,167.968,4,0.2,62.988
+CA-2018-119823,6/4/2018,First Class,KD-16270,United States ,Springfield,Virginia,South,OFF-PA-10000482,Clothing,Formals,75.88,2,0,35.6636
+CA-2018-106075,9/18/2018,Standard Class,HM-14980,United States ,New York City,New York,East,OFF-BI-10004654,Clothing,Dresses,4.616,1,0.2,1.731
+CA-2018-114440,9/14/2018,Second Class,TB-21520,United States ,Jackson,Michigan,Central,OFF-PA-10004675,Clothing,Formals,19.05,3,0,8.763
+US-2018-134026,4/26/2018,Standard Class,JE-15745,United States ,Memphis,Tennessee,South,FUR-CH-10000513,Footwear,Sport shoes,831.936,8,0.2,-114.3912
+US-2018-134026,4/26/2018,Standard Class,JE-15745,United States ,Memphis,Tennessee,South,FUR-FU-10003708,Footwear,Sneakers,97.04,2,0.2,1.213
+US-2018-134026,4/26/2018,Standard Class,JE-15745,United States ,Memphis,Tennessee,South,OFF-ST-10004123,Clothing,Tops,72.784,1,0.2,-18.196
+US-2018-118038,12/9/2018,First Class,KB-16600,United States ,Houston,Texas,Central,OFF-BI-10004182,Clothing,Dresses,1.248,3,0.8,-1.9344
+US-2018-118038,12/9/2018,First Class,KB-16600,United States ,Houston,Texas,Central,FUR-FU-10000260,Footwear,Sneakers,9.708,3,0.6,-5.8248
+US-2018-118038,12/9/2018,First Class,KB-16600,United States ,Houston,Texas,Central,OFF-ST-10000615,Clothing,Tops,27.24,3,0.2,2.724
+US-2018-147606,11/26/2018,Second Class,JE-15745,United States ,Houston,Texas,Central,FUR-FU-10003194,Footwear,Sneakers,19.3,5,0.6,-14.475
+CA-2018-127208,6/12/2018,First Class,SC-20770,United States ,Decatur,Alabama,South,OFF-AP-10002118,Clothing,Jeans,208.16,1,0,56.2032
+CA-2018-127208,6/12/2018,First Class,SC-20770,United States ,Decatur,Alabama,South,OFF-BI-10002309,Clothing,Dresses,16.74,3,0,8.0352
+CA-2018-139451,10/12/2018,Standard Class,DN-13690,United States ,San Francisco,California,West,OFF-AR-10002053,Clothing,Jackets,14.9,5,0,4.172
+CA-2018-139451,10/12/2018,Standard Class,DN-13690,United States ,San Francisco,California,West,OFF-ST-10002370,Clothing,Tops,21.39,1,0,6.2031
+CA-2018-149734,9/3/2018,Standard Class,JC-16105,United States ,Durham,North Carolina,South,OFF-EN-10000927,Clothing,T-shirts ,200.984,7,0.2,62.8075
+US-2018-119662,11/13/2018,First Class,CS-12400,United States ,Chicago,Illinois,Central,OFF-ST-10003656,Clothing,Tops,230.376,3,0.2,-48.9549
+CA-2018-140088,5/28/2018,Second Class,PO-18865,United States ,Columbia,South Carolina,South,FUR-CH-10000863,Footwear,Sport shoes,301.96,2,0,33.2156
+CA-2018-155558,10/26/2018,Standard Class,PG-18895,United States ,Rochester,Minnesota,Central,TEC-AC-10001998,Accessories,Belts,19.99,1,0,6.7966
+CA-2018-155558,10/26/2018,Standard Class,PG-18895,United States ,Rochester,Minnesota,Central,OFF-LA-10000134,Clothing,Socks,6.16,2,0,2.9568
+CA-2018-159695,4/5/2018,Second Class,GM-14455,United States ,Houston,Texas,Central,OFF-ST-10003442,Clothing,Tops,158.368,7,0.2,13.8572
+CA-2018-109806,9/17/2018,Standard Class,JS-15685,United States ,Los Angeles,California,West,OFF-AR-10004930,Clothing,Jackets,20.1,3,0,6.633
+CA-2018-109806,9/17/2018,Standard Class,JS-15685,United States ,Los Angeles,California,West,TEC-PH-10004093,Accessories,Bags,73.584,2,0.2,8.2782
+CA-2018-109806,9/17/2018,Standard Class,JS-15685,United States ,Los Angeles,California,West,OFF-PA-10000304,Clothing,Formals,6.48,1,0,3.1104
+CA-2018-149587,1/31/2018,Second Class,KB-16315,United States ,Minneapolis,Minnesota,Central,OFF-PA-10003177,Clothing,Formals,12.96,2,0,6.2208
+CA-2018-149587,1/31/2018,Second Class,KB-16315,United States ,Minneapolis,Minnesota,Central,FUR-FU-10003799,Footwear,Sneakers,53.34,3,0,16.5354
+CA-2018-149587,1/31/2018,Second Class,KB-16315,United States ,Minneapolis,Minnesota,Central,OFF-BI-10002852,Clothing,Dresses,32.96,2,0,16.1504
+US-2018-109484,11/6/2018,Standard Class,RB-19705,United States ,Portland,Oregon,West,OFF-BI-10004738,Clothing,Dresses,5.682,1,0.7,-3.788
+CA-2018-161018,11/9/2018,Second Class,PN-18775,United States ,New York City,New York,East,FUR-FU-10000629,Footwear,Sneakers,96.53,7,0,40.5426
+CA-2018-157833,6/17/2018,First Class,KD-16345,United States ,San Francisco,California,West,OFF-BI-10001721,Clothing,Dresses,51.312,3,0.2,17.9592
+CA-2018-149223,9/6/2018,Standard Class,ER-13855,United States ,Saint Paul,Minnesota,Central,OFF-AP-10000358,Clothing,Jeans,77.88,6,0,22.5852
