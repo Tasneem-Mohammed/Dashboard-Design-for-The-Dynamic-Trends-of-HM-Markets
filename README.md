@@ -23,9 +23,6 @@ This repository contains the source code and documentation for a dynamic dashboa
 1. Ensure you have Python, Amcharts5 packages installed on your system.
 2. Set up the database and populate it with the required data.
 3. Run the Flask application: `python server.py`
-4. Access the dashboard in your web browser at `http://localhost:5500`.
-
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
-
+4. Access the dashboard in your web browser
 
 
